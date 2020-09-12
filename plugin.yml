@@ -1,0 +1,15 @@
+name: SkriptManager
+
+author: mega12345mega
+
+main: com.javaminecraft.SkriptManager
+
+permissions:
+    skriptmanager.manage:
+        description: This helps hide the /devscript command from normal players. Keep in mind you still have to add the developers to the config file
+    skriptmanager.managedevs:
+        description: This helps hide the /managedev command from normal players. /managedev can only be ran by the console
+
+version: 1.0
+
+api-version: 1.16
