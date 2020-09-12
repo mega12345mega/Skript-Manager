@@ -2,7 +2,7 @@ name: SkriptManager
 
 author: mega12345mega
 
-main: com.javaminecraft.SkriptManager
+main: com.luneruniverse.SkriptManager
 
 permissions:
     skriptmanager.manage:
