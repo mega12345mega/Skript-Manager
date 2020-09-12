@@ -1,4 +1,4 @@
-# SkriptUpdater
+# Skript Manager
 A spigot plugin that lets you manage Skript files from in game.
 
 Commands:
